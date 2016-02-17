@@ -1,0 +1,10 @@
+source:
+IGN
+http://professionnels.ign.fr/geofla
+
+license:
+La réutilisation de GEOFLA® est gratuite pour tous les usages, y compris commerciaux, selon les termes de la "licence ouverte" version 1.0.
+
+https://www.etalab.gouv.fr/licence-ouverte-open-licence
+https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf
+https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Open_Licence.pdf
